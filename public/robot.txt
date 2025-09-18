@@ -1,0 +1,6 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow:
+
+# Sitemap (quando disponível)
+# Sitemap: https://yoursite.com/sitemap.xml
